@@ -4,7 +4,7 @@
 😄 and in my free time I'm currently working on a login page in Angular with a serverless CosmosDB.
 
 🌐 Website:  
-[![Website](https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logoColor=white)](https://seql-consulting-8am8.onrender.com/)
+[![Website](https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logoColor=white)](https://seql-consulting.onrender.com/)
 
 # 💻 Tech Stack:
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
